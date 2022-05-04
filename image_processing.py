@@ -10,7 +10,7 @@ cv.namedWindow("Post")
 cv.namedWindow("Filters", cv.WINDOW_NORMAL)
 cv.namedWindow("Contours", cv.WINDOW_NORMAL)
 
-catalog = './staw_biodrowy'
+catalog = '<catalog name>'
 prefix = 'IMA'
 postfix = '.png'
 fi0 = 80
